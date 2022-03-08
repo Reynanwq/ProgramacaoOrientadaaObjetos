@@ -1,0 +1,15 @@
+/home/reynan/Área de Trabalho/POO/Polimorfismo/bin/Debug/net6.0/Polimorfismo
+/home/reynan/Área de Trabalho/POO/Polimorfismo/bin/Debug/net6.0/Polimorfismo.deps.json
+/home/reynan/Área de Trabalho/POO/Polimorfismo/bin/Debug/net6.0/Polimorfismo.runtimeconfig.json
+/home/reynan/Área de Trabalho/POO/Polimorfismo/bin/Debug/net6.0/Polimorfismo.dll
+/home/reynan/Área de Trabalho/POO/Polimorfismo/bin/Debug/net6.0/Polimorfismo.pdb
+/home/reynan/Área de Trabalho/POO/Polimorfismo/obj/Debug/net6.0/Polimorfismo.csproj.AssemblyReference.cache
+/home/reynan/Área de Trabalho/POO/Polimorfismo/obj/Debug/net6.0/Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/home/reynan/Área de Trabalho/POO/Polimorfismo/obj/Debug/net6.0/Polimorfismo.AssemblyInfoInputs.cache
+/home/reynan/Área de Trabalho/POO/Polimorfismo/obj/Debug/net6.0/Polimorfismo.AssemblyInfo.cs
+/home/reynan/Área de Trabalho/POO/Polimorfismo/obj/Debug/net6.0/Polimorfismo.csproj.CoreCompileInputs.cache
+/home/reynan/Área de Trabalho/POO/Polimorfismo/obj/Debug/net6.0/Polimorfismo.dll
+/home/reynan/Área de Trabalho/POO/Polimorfismo/obj/Debug/net6.0/refint/Polimorfismo.dll
+/home/reynan/Área de Trabalho/POO/Polimorfismo/obj/Debug/net6.0/Polimorfismo.pdb
+/home/reynan/Área de Trabalho/POO/Polimorfismo/obj/Debug/net6.0/Polimorfismo.genruntimeconfig.cache
+/home/reynan/Área de Trabalho/POO/Polimorfismo/obj/Debug/net6.0/ref/Polimorfismo.dll

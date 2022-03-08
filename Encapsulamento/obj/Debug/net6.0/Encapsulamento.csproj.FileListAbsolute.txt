@@ -1,0 +1,15 @@
+/home/reynan/Área de Trabalho/POO/Encapsulamento/bin/Debug/net6.0/Encapsulamento
+/home/reynan/Área de Trabalho/POO/Encapsulamento/bin/Debug/net6.0/Encapsulamento.deps.json
+/home/reynan/Área de Trabalho/POO/Encapsulamento/bin/Debug/net6.0/Encapsulamento.runtimeconfig.json
+/home/reynan/Área de Trabalho/POO/Encapsulamento/bin/Debug/net6.0/Encapsulamento.dll
+/home/reynan/Área de Trabalho/POO/Encapsulamento/bin/Debug/net6.0/Encapsulamento.pdb
+/home/reynan/Área de Trabalho/POO/Encapsulamento/obj/Debug/net6.0/Encapsulamento.csproj.AssemblyReference.cache
+/home/reynan/Área de Trabalho/POO/Encapsulamento/obj/Debug/net6.0/Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/reynan/Área de Trabalho/POO/Encapsulamento/obj/Debug/net6.0/Encapsulamento.AssemblyInfoInputs.cache
+/home/reynan/Área de Trabalho/POO/Encapsulamento/obj/Debug/net6.0/Encapsulamento.AssemblyInfo.cs
+/home/reynan/Área de Trabalho/POO/Encapsulamento/obj/Debug/net6.0/Encapsulamento.csproj.CoreCompileInputs.cache
+/home/reynan/Área de Trabalho/POO/Encapsulamento/obj/Debug/net6.0/Encapsulamento.dll
+/home/reynan/Área de Trabalho/POO/Encapsulamento/obj/Debug/net6.0/refint/Encapsulamento.dll
+/home/reynan/Área de Trabalho/POO/Encapsulamento/obj/Debug/net6.0/Encapsulamento.pdb
+/home/reynan/Área de Trabalho/POO/Encapsulamento/obj/Debug/net6.0/Encapsulamento.genruntimeconfig.cache
+/home/reynan/Área de Trabalho/POO/Encapsulamento/obj/Debug/net6.0/ref/Encapsulamento.dll

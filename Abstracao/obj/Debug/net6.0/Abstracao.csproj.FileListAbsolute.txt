@@ -1,0 +1,15 @@
+/home/reynan/Área de Trabalho/POO/Abstracao/obj/Debug/net6.0/Abstracao.csproj.AssemblyReference.cache
+/home/reynan/Área de Trabalho/POO/Abstracao/obj/Debug/net6.0/Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+/home/reynan/Área de Trabalho/POO/Abstracao/obj/Debug/net6.0/Abstracao.AssemblyInfoInputs.cache
+/home/reynan/Área de Trabalho/POO/Abstracao/obj/Debug/net6.0/Abstracao.AssemblyInfo.cs
+/home/reynan/Área de Trabalho/POO/Abstracao/obj/Debug/net6.0/Abstracao.csproj.CoreCompileInputs.cache
+/home/reynan/Área de Trabalho/POO/Abstracao/bin/Debug/net6.0/Abstracao
+/home/reynan/Área de Trabalho/POO/Abstracao/bin/Debug/net6.0/Abstracao.deps.json
+/home/reynan/Área de Trabalho/POO/Abstracao/bin/Debug/net6.0/Abstracao.runtimeconfig.json
+/home/reynan/Área de Trabalho/POO/Abstracao/bin/Debug/net6.0/Abstracao.dll
+/home/reynan/Área de Trabalho/POO/Abstracao/bin/Debug/net6.0/Abstracao.pdb
+/home/reynan/Área de Trabalho/POO/Abstracao/obj/Debug/net6.0/Abstracao.dll
+/home/reynan/Área de Trabalho/POO/Abstracao/obj/Debug/net6.0/refint/Abstracao.dll
+/home/reynan/Área de Trabalho/POO/Abstracao/obj/Debug/net6.0/Abstracao.pdb
+/home/reynan/Área de Trabalho/POO/Abstracao/obj/Debug/net6.0/Abstracao.genruntimeconfig.cache
+/home/reynan/Área de Trabalho/POO/Abstracao/obj/Debug/net6.0/ref/Abstracao.dll
