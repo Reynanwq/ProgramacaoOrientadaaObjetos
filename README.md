@@ -1,2 +1,2 @@
 # programacaoOrientadaaObjetos
-Trabalhando com os 4 pilares da programação orientada a objeto no C# .NET
+working with the 4 pilares of Object-oriented programing in the C# .NET
